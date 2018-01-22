@@ -26,7 +26,5 @@ def fibonacci(n):
         
 n=int(raw_input('n='))
 
-# fibonacci()
-
 for i in range(n):
     print fibonacci(i),

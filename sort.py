@@ -44,6 +44,16 @@ lst = [ 1 , 5 , 2 , 4 , 3 ]
 bubble_sort(lst)
 print(lst)
 
+# 内建函数排序1
+# python2
+a=[5,3,4,2,1]
+sorted(a)
+print (a)
+
+# 内建函数排序2
+a=[5,3,4,2,1]
+a.sort()
+print (a)
       
   
   
